@@ -1,3 +1,4 @@
+
 # Web422A4
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+<img width="1437" alt="Screen Shot 2021-05-18 at 11 27 56 AM" src="https://user-images.githubusercontent.com/63312395/118679724-1f396a80-b7cc-11eb-9e28-dc1ef7958306.png">
+<img width="1437" alt="Screen Shot 2021-05-18 at 11 26 09 AM" src="https://user-images.githubusercontent.com/63312395/118679755-25c7e200-b7cc-11eb-8f92-da4e2da09be9.png">
+<img width="1437" alt="Screen Shot 2021-05-18 at 11 26 25 AM" src="https://user-images.githubusercontent.com/63312395/118679763-28c2d280-b7cc-11eb-811f-d43f64f7a212.png">
+<img width="1437" alt="Screen Shot 2021-05-18 at 11 26 35 AM" src="https://user-images.githubusercontent.com/63312395/118679770-2a8c9600-b7cc-11eb-9f48-bc97b21923ce.png">
