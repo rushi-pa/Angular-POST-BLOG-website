@@ -29,7 +29,16 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 <img width="1437" alt="Screen Shot 2021-05-18 at 11 27 56 AM" src="https://user-images.githubusercontent.com/63312395/118679724-1f396a80-b7cc-11eb-9e28-dc1ef7958306.png">
 
 
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 
 
@@ -39,6 +48,18 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 <img width="1437" alt="Screen Shot 2021-05-18 at 11 26 09 AM" src="https://user-images.githubusercontent.com/63312395/118679755-25c7e200-b7cc-11eb-8f92-da4e2da09be9.png">
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 
 
@@ -50,7 +71,19 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 <img width="1437" alt="Screen Shot 2021-05-18 at 11 26 25 AM" src="https://user-images.githubusercontent.com/63312395/118679763-28c2d280-b7cc-11eb-811f-d43f64f7a212.png">
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 
 
